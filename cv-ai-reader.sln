@@ -5,6 +5,10 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv-ai-reader", "cv-ai-reader\cv-ai-reader.csproj", "{7CE665B1-07F1-45FE-9249-A38EDDD5BB3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{99F13E9A-429F-44D8-8FDB-0F72A867B96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{B0348293-82AF-4681-A660-76E115B9CB27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7CE665B1-07F1-45FE-9249-A38EDDD5BB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE665B1-07F1-45FE-9249-A38EDDD5BB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE665B1-07F1-45FE-9249-A38EDDD5BB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F13E9A-429F-44D8-8FDB-0F72A867B96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F13E9A-429F-44D8-8FDB-0F72A867B96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F13E9A-429F-44D8-8FDB-0F72A867B96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F13E9A-429F-44D8-8FDB-0F72A867B96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0348293-82AF-4681-A660-76E115B9CB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0348293-82AF-4681-A660-76E115B9CB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0348293-82AF-4681-A660-76E115B9CB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0348293-82AF-4681-A660-76E115B9CB27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
